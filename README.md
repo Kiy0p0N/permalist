@@ -1,6 +1,6 @@
 # Permalist
 
-![Exemplo de execução](/image/image.png)
+![Exemplo de execução](/image/example.gif)
 
 ## Descrição
 Este é um aplicativo de lista de tarefas simples desenvolvido com Node.js, Express e PostgreSQL. Ele permite adicionar, editar e excluir itens de uma lista armazenada no banco de dados.
@@ -13,10 +13,10 @@ Este é um aplicativo de lista de tarefas simples desenvolvido com Node.js, Expr
 - body-parser
 
 ## Funcionalidades
-- Adicionar novas tarefas à lista
-- Editar tarefas existentes
-- Excluir tarefas
-- Persistência dos dados utilizando PostgreSQL
+- [X] Adicionar novas tarefas à lista
+- [X] Editar tarefas existentes
+- [X] Excluir tarefas
+- [X] Persistência dos dados utilizando PostgreSQL
 
 ## Como Executar o Projeto
 ### Pré-requisitos
